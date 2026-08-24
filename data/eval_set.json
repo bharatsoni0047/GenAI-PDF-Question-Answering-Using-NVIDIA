@@ -1,0 +1,66 @@
+[
+  {
+    "query": "What is the Gini index and what do values of 0 and 1 mean?",
+    "expect": "acsbr-017.pdf"
+  },
+  {
+    "query": "How is household income defined, and who counts towards it?",
+    "expect": "acsbr-017.pdf"
+  },
+  {
+    "query": "What does the median household income represent and how is it calculated?",
+    "expect": "acsbr-017.pdf"
+  },
+  {
+    "query": "How did real median household income change between the two years compared?",
+    "expect": "acsbr-017.pdf"
+  },
+  {
+    "query": "How do earnings differ across occupation groups?",
+    "expect": "p70-178.pdf"
+  },
+  {
+    "query": "What job characteristics are examined besides pay, such as employer-provided benefits?",
+    "expect": "p70-178.pdf"
+  },
+  {
+    "query": "How many hours per day do American workers spend on work and work-related activities?",
+    "expect": "p70-178.pdf"
+  },
+  {
+    "query": "What does the report say about occupational identity and how work shapes who we are?",
+    "expect": "p70-178.pdf"
+  },
+  {
+    "query": "Which states had the highest and lowest poverty rates in 2022?",
+    "expect": "acsbr-016.pdf"
+  },
+  {
+    "query": "How did poverty rates change in metropolitan areas between 2021 and 2022?",
+    "expect": "acsbr-016.pdf"
+  },
+  {
+    "query": "Why do federal and state governments use poverty estimates to allocate funds?",
+    "expect": "acsbr-016.pdf"
+  },
+  {
+    "query": "What was the uninsured rate and how did health coverage change between 2021 and 2022?",
+    "expect": "acsbr-015.pdf"
+  },
+  {
+    "query": "How did the Medicaid Continuous Enrollment Provision affect public coverage?",
+    "expect": "acsbr-015.pdf"
+  },
+  {
+    "query": "What effect did the American Rescue Plan have on Marketplace premium subsidies?",
+    "expect": "acsbr-015.pdf"
+  },
+  {
+    "query": "How does health insurance coverage differ between states and by geography?",
+    "expect": "acsbr-015.pdf"
+  },
+  {
+    "query": "What is the difference between private and public health insurance coverage?",
+    "expect": "acsbr-015.pdf"
+  }
+]
